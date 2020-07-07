@@ -1,6 +1,5 @@
 === FC CPT Commodities ===
-Contributors: fcshipstg
-Tags: dummy text generator, dummy text, lorem ipsum, dummy content, lorem text 
+Contributors: fccom
 Requires at least: 3.3
 Tested up to: 5.3
 Stable tag: 4.2
